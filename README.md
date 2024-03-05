@@ -2,3 +2,7 @@
 - [网络](网络.md)
 - [MySQl](MySQl.md)
 - [Redis](Redis.md)
+- [Git](Git讲义.pdf)
+- [Java](Java.pdf)
+- [Linux](Linux.md)
+- [云](云.md)
