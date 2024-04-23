@@ -2,7 +2,7 @@
 
 后端开发
 - [网络](网络.md)
-- [MySQl](MySQl.md)
+- [MySQL](MySQL.md)
 - [Redis](Redis.md)
 - [Git](Git讲义.pdf)
 - [Java](Java.pdf)
